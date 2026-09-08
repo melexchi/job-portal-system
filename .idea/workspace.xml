@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aca76c0b-7caa-47cf-af8c-af16f8f55d6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/payload/UpdateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/security/JwtConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/security/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job-portal-system/services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/job-portal-system/services/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/user/Documents/job portal" value="3IghJLGzefK8IexLfTA7BnZi8VG" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/job-portal-system" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "melexchi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/melexchi/job-portal-system.git",
+    "accountId": "8f464d8f-a671-4df9-aacc-2fe0102668f4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3IghJLGzefK8IexLfTA7BnZi8VG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca76c0b-7caa-47cf-af8c-af16f8f55d6e" name="Changes" comment="" />
+      <created>1788192050830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788192050830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

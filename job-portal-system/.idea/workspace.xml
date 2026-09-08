@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14fbf6c0-05ea-43de-a1e6-55fe241dbc92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/CompanySize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/CompanyStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/CompanyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/ExperienceLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/IndustryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/JobStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/JobType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/SkillCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/SocialPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/domain/WorkMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/CompanyRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/CompanyResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/JobCategoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/JobRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/JobResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/JobSkillResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/melex/job/dto/SocialLinkResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/mapper/CompanyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/model/SocialLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/service/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-company-service/src/main/java/com/melex/job/service/impl/CompanyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/controller/JobCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/controller/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/mapper/JobCategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/mapper/JobMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/mapper/JobSkillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/model/JobCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/model/JobSkill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/model/embeddable/JobLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/model/embeddable/SalaryRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/payload/JobCategoryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/payload/JobSearchRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/payload/JobSkillRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/repository/JobCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/repository/JobRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/repository/JobSkillRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/repository/JobSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/JobCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/JobSkillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/impl/JobCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/impl/JobServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-job-service/src/main/java/com/melex/job/service/impl/JobSkillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/payload/UpdateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/security/JwtConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/security/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/java/com/melex/job/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/job-portal-user-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/services/job-portal-user-service/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/user/Documents/job portal/job-portal-system" value="3IprQ26pGus9IJ7kPPSG9Z8fcUb" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;melexchi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/melexchi/job-portal-system.git&quot;,
+    &quot;accountId&quot;: &quot;8f464d8f-a671-4df9-aacc-2fe0102668f4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3IprQ26pGus9IJ7kPPSG9Z8fcUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JobPortalJobService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JobService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserService.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.melex.job.payload" />
+      <recent name="com.melex.job.dto" />
+      <recent name="com.melex.job.domain" />
+      <recent name="com.melex.job.model.embeddable" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.melex.job.mapper" />
+      <recent name="com.melex.job.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JobService">
+    <configuration name="CompanyService" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.melex.job.JobPortalCompanyServiceApplication" />
+      <module name="job-portal-company-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobService" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.melex.job.JobPortalJobServiceApplication" />
+      <module name="job-portal-job-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.melex.job.JobPortalUserServiceApplication" />
+      <module name="job-portal-user-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JobService" />
+      <item itemvalue="Application.CompanyService" />
+      <item itemvalue="Application.UserService" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14fbf6c0-05ea-43de-a1e6-55fe241dbc92" name="Changes" comment="" />
+      <created>1788472336803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788472336803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
